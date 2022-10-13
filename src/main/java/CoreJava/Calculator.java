@@ -42,7 +42,7 @@ public class Calculator {
         else
             System.out.println("not greater than 4");
 
-// for loop for printing numbers using user input
+ //for loop for printing numbers using user input
 //        Scanner sc=new Scanner(System.in);
 //        int n= sc.nextInt();
 //
